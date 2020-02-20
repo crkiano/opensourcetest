@@ -1,4 +1,4 @@
 object Test extends App {
 
-  println("Hello, Open sauce!")
+  println("Hello, Open Source!")
 }
